@@ -18,15 +18,15 @@
     "url": "https://github.com/anonymousbitcoin/bitcore-p2p-anon"
   },
   "dependencies": {
-    "bitcore-lib-anon": "anonymousbitcoin/bitcore-lib-anon",
     "bcoin": "1.0.0-beta.12",
+    "bitcore-lib-anon": "anonymousbitcoin/bitcore-lib-anon",
     "bloom-filter": "^0.2.0",
-    "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
+    "buffers": "github:bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-anon": "anonymousbitcoin/bitcore-build-anon",
-    "brfs": "^1.2.0",
+    "bitcore-build-anon": "github:anonymousbitcoin/bitcore-build-anon",
+    "brfs": "^1.6.1",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
     "sinon": "^1.12.2"
