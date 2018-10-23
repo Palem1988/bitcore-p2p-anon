@@ -19,13 +19,13 @@
   },
   "dependencies": {
     "bcoin": "1.0.0-beta.12",
-    "bitcore-lib-anon": "anonymousbitcoin/bitcore-lib-anon#de99b17a653c4ca3ffff1ea77d0e8158a7abdca8",
+    "bitcore-lib-anon": "^1.0.3",
     "bloom-filter": "^0.2.0",
     "buffers": "github:bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-anon": "github:anonymousbitcoin/bitcore-build-anon",
+    "bitcore-build-anon": "^1.0.0",
     "brfs": "^1.6.1",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
